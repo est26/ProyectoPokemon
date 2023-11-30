@@ -1,0 +1,31 @@
+/*div padre, donde iran las cartas de los pokemones*/
+.cartas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*div padre, donde iran las cartas de los pokemones*/
+.pokemones{
+    display: flex;
+    background-color: rgb(199, 222, 214);
+    margin-top: 50px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+
+ /*estlo de las imagenes*/
+.img6{
+    width: 250px;
+    height: 250px;
+}
+
+/*estlo de las imagenes del tipo que es*/
+.parrafo1{
+   
+    font-size: 25px;
+    margin: 10px;
+    text-align: center;
+
+}

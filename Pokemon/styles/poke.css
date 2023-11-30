@@ -1,0 +1,111 @@
+/*estilo del div donde iran los tipos pokemon*/
+.cartas-pokemon {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: center;
+}
+
+/*estilo de los div de los tipos*/
+.tipo-agua {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #28a8c9;   
+}
+.tipo-fantasma {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #5e1d9bcd;
+}
+.tipo-planta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #42d53acd;  
+}
+.tipo-fuego {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #fd6432cd;  
+}
+.tipo-normal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #5c5c5ccd;  
+}
+.tipo-siniestro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #80483c; 
+}
+.tipo-psiquico {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #f928f5cd;
+}
+.tipo-lucha {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #fa6000cd;
+}
+
+/*estilo de la imagen del pokemon*/
+.img3{
+    width: 100px;
+    height: 90px;
+}
+
+/*estilo del boton*/
+.botonpoke{
+    background-color: rgba(40, 169, 201, 0);
+    border: none;
+}
+
+
